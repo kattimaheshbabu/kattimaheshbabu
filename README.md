@@ -1,7 +1,7 @@
 
 <!-- ===================================================== -->
-<!--             MAHESH BABU KATTI | PROFILE               -->
-<!--                  OCEAN GLASS THEME                    -->
+<!--          MAHESH BABU KATTI | GITHUB PROFILE            -->
+<!--                    OCEAN GLASS                         -->
 <!-- ===================================================== -->
 
 <div align="center">
@@ -12,11 +12,17 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=70E1F5&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+World;Building+Ideas+into+Reality;Full+Stack+Development;Exploring+AI+%26+Emerging+Technologies;Creating+Something+Meaningful" />
+<!-- PROFILE PHOTO -->
+
+<img src="./assets/profile-photo.png" width="220" alt="Mahesh Babu Katti - Profile Photo"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-007F83?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=70E1F5&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+World;Building+Ideas+into+Reality;Full+Stack+Development;Exploring+AI+%26+Emerging+Technologies;Creating+Something+Meaningful"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-007F83?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-086788?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BASED-IN%20INDIA-009688?style=for-the-badge"/>
 
@@ -53,13 +59,9 @@ I enjoy experimenting with technologies, developing practical applications and c
 
 <div align="center">
 
-<br/>
-
 > "The ocean of knowledge has no end. Keep exploring, keep creating."
 
 **THINK DEEP. BUILD SMART. CREATE WITHOUT LIMITS.**
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:062B36,50:087F8C,100:00BFA6&height=3&section=header" width="85%"/>
 
@@ -236,8 +238,6 @@ An IoT-based system designed to monitor water quality parameters using sensors a
 
 <div align="center">
 
-<br/>
-
 ### BUILDING • EXPERIMENTING • INNOVATING
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:062B36,50:087F8C,100:70E1F5&height=3&section=header" width="85%"/>
@@ -256,7 +256,7 @@ An IoT-based system designed to monitor water quality parameters using sensors a
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=4000&pause=1200&color=70E1F5&center=true&vCenter=true&width=650&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Every+expert+was+once+a+beginner.;The+best+way+to+predict+the+future+is+to+build+it.;Stay+curious.+Keep+creating." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=4000&pause=1200&color=70E1F5&center=true&vCenter=true&width=650&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Every+expert+was+once+a+beginner.;The+best+way+to+predict+the+future+is+to+build+it.;Stay+curious.+Keep+creating."/>
 
 <br/><br/>
 
@@ -314,7 +314,7 @@ An IoT-based system designed to monitor water quality parameters using sensors a
 
 ---
 
-<!-- CURRENTLY LEARNING -->
+<!-- CURRENTLY EXPLORING -->
 
 <div align="center">
 
